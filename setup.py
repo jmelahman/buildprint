@@ -62,7 +62,7 @@ setup(
     install_requires=[
         "click==8.1.3",
         "colorama==0.4.5",
-        "gitpython==3.1.31",
+        "gitpython==3.1.32",
         "pyyaml==6.0",
         "pybazel==0.4.0",
     ],
